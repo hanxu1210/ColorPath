@@ -134,6 +134,15 @@ public class PlayerController : MonoBehaviour
                 StartCoroutine(ButtonClick("YellowButton"));
             }
         }
+
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        {
+            StartCoroutine(ButtonClick("YellowButton"));
+        }
+        else if (Input.GetKeyDown(KeyCode.RightArrow))
+        {
+            StartCoroutine(ButtonClick("RedButton"));
+        }
     }
 
     public void StartGame()

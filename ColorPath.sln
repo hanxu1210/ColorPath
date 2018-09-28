@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPath", "Assembly-CSharp-firstpass.csproj", "{6F413228-ECE2-8A9F-2DA5-B33BA90C3C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPath", "Assembly-CSharp.csproj", "{D177B3B8-542A-25D4-F070-075382C2F693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPath", "Assembly-CSharp-Editor.csproj", "{FA2E33F3-10C9-6537-9616-8D7EF9E25308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F413228-ECE2-8A9F-2DA5-B33BA90C3C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F413228-ECE2-8A9F-2DA5-B33BA90C3C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F413228-ECE2-8A9F-2DA5-B33BA90C3C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F413228-ECE2-8A9F-2DA5-B33BA90C3C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D177B3B8-542A-25D4-F070-075382C2F693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D177B3B8-542A-25D4-F070-075382C2F693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D177B3B8-542A-25D4-F070-075382C2F693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D177B3B8-542A-25D4-F070-075382C2F693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2E33F3-10C9-6537-9616-8D7EF9E25308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2E33F3-10C9-6537-9616-8D7EF9E25308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2E33F3-10C9-6537-9616-8D7EF9E25308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2E33F3-10C9-6537-9616-8D7EF9E25308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
